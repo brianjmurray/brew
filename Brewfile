@@ -24,8 +24,10 @@ brew "openjdk"
 brew "parquet-cli"
 brew "protobuf"
 brew "python@3.9"
+brew "rename"
 brew "rust"
 brew "starship"
+brew "telnet"
 brew "terraformer"
 brew "tldr"
 brew "toot"
@@ -39,6 +41,7 @@ cask "pycharm-ce"
 cask "snowflake-snowsql"
 mas "1Blocker", id: 1365531024
 mas "BetterSnapTool", id: 417375580
+mas "Bitwarden", id: 1352778147
 mas "ColorStrokes", id: 459413843
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disconnect Premium", id: 1333277187
