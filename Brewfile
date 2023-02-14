@@ -40,6 +40,8 @@ cask "powershell"
 cask "pycharm-ce"
 cask "snowflake-snowsql"
 mas "1Blocker", id: 1365531024
+mas "1Password 7", id: 1333542190
+mas "1Password for Safari", id: 1569813296
 mas "BetterSnapTool", id: 417375580
 mas "Bitwarden", id: 1352778147
 mas "ColorStrokes", id: 459413843
