@@ -40,10 +40,8 @@ cask "powershell"
 cask "pycharm-ce"
 cask "snowflake-snowsql"
 mas "1Blocker", id: 1365531024
-mas "1Password 7", id: 1333542190
 mas "1Password for Safari", id: 1569813296
 mas "BetterSnapTool", id: 417375580
-mas "Bitwarden", id: 1352778147
 mas "ColorStrokes", id: 459413843
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disconnect Premium", id: 1333277187
@@ -55,7 +53,6 @@ mas "iMovie", id: 408981434
 mas "Intensify", id: 716854513
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
-mas "LastPass", id: 926036361
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
