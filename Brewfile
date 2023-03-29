@@ -15,6 +15,7 @@ brew "fish"
 brew "unixodbc"
 brew "freetds"
 brew "gh"
+brew "git"
 brew "python@3.11"
 brew "glances"
 brew "go"
@@ -27,10 +28,14 @@ brew "node"
 brew "oh-my-posh"
 brew "openjdk"
 brew "parquet-cli"
+brew "pipx"
 brew "protobuf"
+brew "pyenv"
+brew "pyenv-virtualenv"
 brew "python@3.9"
 brew "rename"
 brew "rust"
+brew "scala"
 brew "starship"
 brew "telnet"
 brew "terraformer"
@@ -54,6 +59,7 @@ mas "ColorStrokes", id: 459413843
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disconnect Premium", id: 1333277187
 mas "Fantastical", id: 975937182
+mas "Final Cut Pro", id: 424389933
 mas "Focus 2", id: 740472063
 mas "GarageBand", id: 682658836
 mas "Hush", id: 1544743900
@@ -62,6 +68,7 @@ mas "Intensify", id: 716854513
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
 mas "LastPass", id: 926036361
+mas "Logic Pro", id: 634148309
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
