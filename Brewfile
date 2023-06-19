@@ -2,8 +2,6 @@ tap "1password/tap"
 tap "dbt-labs/dbt"
 tap "hashicorp/tap"
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 tap "microsoft/git"
 tap "microsoft/mssql-release"
 brew "astro"
@@ -50,6 +48,7 @@ cask "1password-cli"
 cask "dbeaver-community"
 cask "powershell"
 cask "pycharm-ce"
+cask "snowflake-snowsql"
 mas "1Blocker", id: 1365531024
 mas "1Password for Safari", id: 1569813296
 mas "BetterSnapTool", id: 417375580
@@ -64,6 +63,8 @@ mas "GarageBand", id: 682658836
 mas "Hush", id: 1544743900
 mas "iMovie", id: 408981434
 mas "Intensify", id: 716854513
+mas "Ivory", id: 6444602274
+mas "Jira", id: 898500641
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
 mas "LastPass", id: 926036361
