@@ -49,10 +49,8 @@ brew "hashicorp/tap/terraform"
 cask "1password-cli"
 cask "aerial"
 cask "dbeaver-community"
-cask "git-credential-manager-core"
 cask "powershell"
 cask "pycharm-ce"
-cask "snowflake-snowsql"
 mas "1Blocker", id: 1365531024
 mas "1Password for Safari", id: 1569813296
 mas "BetterSnapTool", id: 417375580
