@@ -85,6 +85,7 @@ mas "Playgrounds", id: 1496833156
 mas "Privacy Pro", id: 1051960818
 mas "Snapheal", id: 480623975
 mas "Snapselect", id: 935700987
+mas "Spark", id: 1176895641
 mas "Tonality", id: 892581529
 mas "VisualXML", id: 617516344
 mas "Xcode", id: 497799835
