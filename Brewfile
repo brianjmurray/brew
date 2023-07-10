@@ -42,7 +42,6 @@ brew "tldr"
 brew "toot"
 brew "wget"
 brew "yarn"
-brew "dbt-labs/dbt/dbt-snowflake"
 brew "hashicorp/tap/terraform"
 cask "1password-cli"
 cask "dbeaver-community"
@@ -67,7 +66,6 @@ mas "Ivory", id: 6444602274
 mas "Jira", id: 898500641
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
-mas "LastPass", id: 926036361
 mas "Logic Pro", id: 634148309
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
