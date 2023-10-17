@@ -21,6 +21,7 @@ brew "glances"
 brew "go"
 brew "htop"
 brew "krb5"
+brew "lighttpd"
 brew "mackup"
 brew "mas"
 brew "minikube"
@@ -68,7 +69,9 @@ mas "Hush", id: 1544743900
 mas "iMovie", id: 408981434
 mas "Intensify", id: 716854513
 mas "Ivory", id: 6444602274
+mas "Jira", id: 898500641
 mas "Keynote", id: 409183694
+mas "KyPass", id: 555293879
 mas "Logic Pro", id: 634148309
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
