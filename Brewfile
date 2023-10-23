@@ -69,7 +69,6 @@ mas "Hush", id: 1544743900
 mas "iMovie", id: 408981434
 mas "Intensify", id: 716854513
 mas "Ivory", id: 6444602274
-mas "Jira", id: 898500641
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
 mas "Logic Pro", id: 634148309
