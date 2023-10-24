@@ -11,6 +11,8 @@ brew "azure-cli"
 brew "btop"
 brew "cmake"
 brew "cowsay"
+brew "docker-completion"
+brew "docker"
 brew "fish"
 brew "unixodbc"
 brew "freetds"
@@ -69,6 +71,7 @@ mas "Hush", id: 1544743900
 mas "iMovie", id: 408981434
 mas "Intensify", id: 716854513
 mas "Ivory", id: 6444602274
+mas "Jira", id: 898500641
 mas "Keynote", id: 409183694
 mas "KyPass", id: 555293879
 mas "Logic Pro", id: 634148309
@@ -89,6 +92,7 @@ mas "Privacy Pro", id: 1051960818
 mas "Snapheal", id: 480623975
 mas "Snapselect", id: 935700987
 mas "Spark", id: 1176895641
+mas "Super Agent", id: 1568262835
 mas "The Camelizer", id: 1532579087
 mas "Tonality", id: 892581529
 mas "VisualXML", id: 617516344
