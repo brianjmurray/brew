@@ -15,7 +15,8 @@ sudo softwareupdate -ia --verbose\
  && git add Brewfile\
  &&  git commit -m "ran update on $now"\
  && git push --set-upstream origin $now
-github pull-request create --title="Pull request or update on $now" --body="see title" --branch="$now" --dest="main"
+gh pr create --fill -B "main"
+gh pr merge -m -auto
 git checkout main
 git pull origin
 
