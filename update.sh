@@ -12,7 +12,7 @@ sudo softwareupdate -ia --verbose\
  && brew bundle dump -f\
  && az upgrade\
  && mackup backup -f\
- && git add Brewfile\
+ && git add .\
  &&  git commit -m "ran update on $now"\
  && git push --set-upstream origin $now
 gh pr create --fill -B "main"
