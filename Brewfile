@@ -72,7 +72,6 @@ mas "Bitwarden", id: 1352778147
 mas "ColorStrokes", id: 459413843
 mas "Dark Reader for Safari", id: 1438243180
 mas "Disconnect Premium", id: 1333277187
-mas "Fantastical", id: 975937182
 mas "Final Cut Pro", id: 424389933
 mas "Focus 2", id: 740472063
 mas "GarageBand", id: 682658836
@@ -149,8 +148,6 @@ vscode "ms-vscode.powershell"
 vscode "ms-vscode.vscode-node-azure-pack"
 vscode "msazurermtools.azurerm-vscode-tools"
 vscode "parallelsdesktop.parallels-desktop"
-vscode "reditorsupport.r"
-vscode "snowflake.snowflake-vsc"
 vscode "tonybaloney.vscode-pets"
 vscode "visualstudioexptteam.intellicode-api-usage-examples"
 vscode "visualstudioexptteam.vscodeintellicode"
