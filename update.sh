@@ -16,7 +16,7 @@ sudo softwareupdate -ia --verbose\
  &&  git commit -m "ran update on $now"\
  && git push --set-upstream origin $now
 gh pr create --fill -B "main"
-gh pr merge -m --auto
+gh pr merge --admin --squash
 git checkout main
 git pull origin
 
